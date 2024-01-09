@@ -1,1 +1,1 @@
-print('Hello, World (・ิω・ิ) ! 2024 아직 화이팅 싫어')
+print('Hello, World (・ิω・ิ) ! 2024 아직 화이팅 싫어유')
